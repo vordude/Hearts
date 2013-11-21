@@ -1,0 +1,23 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1385006743000 2596 614616d84ab1e95fd0d2a094e767fe9376155e1c /Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/build/classes/debug/com/vordude/trike/Hand.class
+1385006742000 1390 18e6b99d8c82a84373955289a0cb3e42b9562aa5 /Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/build/classes/debug/com/vordude/trike/Deck.class
+1385006742000 1648 8429be4e9f0a99d83ca598c39326d4cfc285ccf8 /Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/build/classes/debug/com/vordude/trike/Card.class
+1385006743000 388 9f7271825e76d08834971e4bfaee679aba1fdd6d /Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/build/classes/debug/com/vordude/hearts/R$menu.class
+1385006742000 2604 3afc97659512e058245ea3f75827fdec936faa91 /Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/build/classes/debug/com/vordude/trike/Rank.class
+1385006743000 3018 5502c7d3533c61797048360a59de5d64afa12a55 /Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/build/classes/debug/com/vordude/trike/HandView.class
+1385006742000 1834 f5acb636f470cee1f4576bddefd3092009f7cc6c /Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/build/classes/debug/com/vordude/hearts/Game.class
+1384922057000 490914 3fe75433da602500cc71fcc1c46e5550291dd45d /Users/kleve/Software/android-sdks/extras/android/m2repository/com/android/support/support-v4/13.0.0/support-v4-13.0.0.jar
+1385006743000 466 5b940aaf81a1671e6469f8cd7bbc7ef13edf18e0 /Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/build/classes/debug/com/vordude/hearts/BuildConfig.class
+1385006743000 461 819f6b154189d61e3751163457d60cc8cfb2b791 /Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/build/classes/debug/com/vordude/hearts/R$dimen.class
+1385006743000 677 090fcf51d001fbbd5f00d7d0eac4d5969cfb0895 /Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/build/classes/debug/com/vordude/hearts/R.class
+1385006743000 1125 49339e93340f3d5113547f571957b1318c05e0b7 /Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/build/classes/debug/com/vordude/hearts/model/HeartsDeck.class
+1385006743000 472 c3a38b74d64a91c26602d037405ad9c7ab96f200 /Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/build/classes/debug/com/vordude/hearts/R$string.class
+1385006743000 524 f809b9669721c033e8fa5dbec86f6e9b70b54760 /Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/build/classes/debug/com/vordude/hearts/R$id.class
+1385006743000 340 1a006b174c3f370cb483d74b6868be03970c5737 /Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/build/classes/debug/com/vordude/hearts/R$attr.class
+1385006743000 431 5f67efbb3dad240fdfa1cfd640e7fc17da86d284 /Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/build/classes/debug/com/vordude/hearts/R$style.class
+1385006743000 1944 f3338ca10aefb1673ffd84af5eff2adc6333f2ba /Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/build/classes/debug/com/vordude/hearts/R$drawable.class
+1385006742000 1595 ed0b5494cd2b3e611a628748c7ae5b137c0e4091 /Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/build/classes/debug/com/vordude/trike/Suit.class
+1385006743000 408 0eb246d95b533e51031887301de82696715b40f3 /Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/build/classes/debug/com/vordude/hearts/R$layout.class
+1385006743000 390 106d8264079607a0b73169112ae8831135a4f202 /Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/build/classes/debug/com/vordude/hearts/model/HeartsHand.class

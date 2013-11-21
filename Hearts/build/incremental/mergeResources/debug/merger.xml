@@ -1,0 +1,1145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res" >
+            <file
+                name="acec"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-hdpi/acec.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="aced"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-hdpi/aced.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="aceh"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-hdpi/aceh.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="aces"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-hdpi/aces.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="eightc"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-hdpi/eightc.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="eightd"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-hdpi/eightd.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="eighth"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-hdpi/eighth.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="eights"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-hdpi/eights.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="fivec"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-hdpi/fivec.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="fived"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-hdpi/fived.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="fiveh"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-hdpi/fiveh.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="fives"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-hdpi/fives.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="fourc"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-hdpi/fourc.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="fourd"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-hdpi/fourd.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="fourh"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-hdpi/fourh.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="fours"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-hdpi/fours.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-hdpi/ic_launcher.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="jackc"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-hdpi/jackc.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="jackd"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-hdpi/jackd.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="jackh"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-hdpi/jackh.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="jacks"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-hdpi/jacks.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="kingc"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-hdpi/kingc.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="kingd"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-hdpi/kingd.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="kingh"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-hdpi/kingh.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="kings"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-hdpi/kings.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ninec"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-hdpi/ninec.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="nined"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-hdpi/nined.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="nineh"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-hdpi/nineh.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="nines"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-hdpi/nines.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="queenc"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-hdpi/queenc.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="queend"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-hdpi/queend.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="queenh"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-hdpi/queenh.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="queens"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-hdpi/queens.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="sevenc"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-hdpi/sevenc.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="sevend"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-hdpi/sevend.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="sevenh"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-hdpi/sevenh.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="sevens"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-hdpi/sevens.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="sixc"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-hdpi/sixc.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="sixd"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-hdpi/sixd.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="sixh"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-hdpi/sixh.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="sixs"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-hdpi/sixs.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="table"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-hdpi/table.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="tenc"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-hdpi/tenc.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="tend"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-hdpi/tend.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="tenh"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-hdpi/tenh.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="tens"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-hdpi/tens.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="threec"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-hdpi/threec.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="threed"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-hdpi/threed.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="threeh"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-hdpi/threeh.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="threes"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-hdpi/threes.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="twoc"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-hdpi/twoc.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="twod"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-hdpi/twod.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="twoh"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-hdpi/twoh.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="twos"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-hdpi/twos.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="acec"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-mdpi/acec.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="aced"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-mdpi/aced.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="aceh"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-mdpi/aceh.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="aces"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-mdpi/aces.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="eightc"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-mdpi/eightc.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="eightd"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-mdpi/eightd.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="eighth"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-mdpi/eighth.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="eights"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-mdpi/eights.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="fivec"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-mdpi/fivec.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="fived"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-mdpi/fived.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="fiveh"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-mdpi/fiveh.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="fives"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-mdpi/fives.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="fourc"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-mdpi/fourc.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="fourd"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-mdpi/fourd.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="fourh"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-mdpi/fourh.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="fours"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-mdpi/fours.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-mdpi/ic_launcher.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="jackc"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-mdpi/jackc.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="jackd"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-mdpi/jackd.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="jackh"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-mdpi/jackh.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="jacks"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-mdpi/jacks.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="kingc"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-mdpi/kingc.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="kingd"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-mdpi/kingd.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="kingh"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-mdpi/kingh.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="kings"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-mdpi/kings.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ninec"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-mdpi/ninec.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="nined"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-mdpi/nined.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="nineh"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-mdpi/nineh.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="nines"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-mdpi/nines.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="queenc"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-mdpi/queenc.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="queend"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-mdpi/queend.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="queenh"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-mdpi/queenh.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="queens"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-mdpi/queens.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="sevenc"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-mdpi/sevenc.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="sevend"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-mdpi/sevend.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="sevenh"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-mdpi/sevenh.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="sevens"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-mdpi/sevens.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="sixc"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-mdpi/sixc.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="sixd"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-mdpi/sixd.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="sixh"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-mdpi/sixh.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="sixs"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-mdpi/sixs.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="tenc"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-mdpi/tenc.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="tend"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-mdpi/tend.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="tenh"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-mdpi/tenh.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="tens"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-mdpi/tens.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="threec"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-mdpi/threec.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="threed"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-mdpi/threed.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="threeh"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-mdpi/threeh.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="threes"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-mdpi/threes.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="twoc"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-mdpi/twoc.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="twod"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-mdpi/twod.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="twoh"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-mdpi/twoh.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="twos"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-mdpi/twos.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="acec"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-xhdpi/acec.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="aced"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-xhdpi/aced.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="aceh"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-xhdpi/aceh.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="aces"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-xhdpi/aces.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="eightc"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-xhdpi/eightc.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="eightd"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-xhdpi/eightd.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="eighth"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-xhdpi/eighth.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="eights"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-xhdpi/eights.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="fivec"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-xhdpi/fivec.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="fived"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-xhdpi/fived.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="fiveh"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-xhdpi/fiveh.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="fives"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-xhdpi/fives.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="fourc"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-xhdpi/fourc.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="fourd"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-xhdpi/fourd.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="fourh"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-xhdpi/fourh.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="fours"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-xhdpi/fours.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-xhdpi/ic_launcher.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="jackc"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-xhdpi/jackc.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="jackd"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-xhdpi/jackd.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="jackh"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-xhdpi/jackh.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="jacks"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-xhdpi/jacks.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="kingc"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-xhdpi/kingc.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="kingd"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-xhdpi/kingd.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="kingh"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-xhdpi/kingh.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="kings"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-xhdpi/kings.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ninec"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-xhdpi/ninec.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="nined"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-xhdpi/nined.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="nineh"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-xhdpi/nineh.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="nines"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-xhdpi/nines.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="queenc"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-xhdpi/queenc.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="queend"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-xhdpi/queend.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="queenh"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-xhdpi/queenh.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="queens"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-xhdpi/queens.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="sevenc"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-xhdpi/sevenc.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="sevend"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-xhdpi/sevend.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="sevenh"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-xhdpi/sevenh.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="sevens"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-xhdpi/sevens.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="sixc"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-xhdpi/sixc.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="sixd"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-xhdpi/sixd.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="sixh"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-xhdpi/sixh.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="sixs"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-xhdpi/sixs.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="tenc"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-xhdpi/tenc.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="tend"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-xhdpi/tend.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="tenh"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-xhdpi/tenh.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="tens"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-xhdpi/tens.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="threec"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-xhdpi/threec.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="threed"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-xhdpi/threed.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="threeh"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-xhdpi/threeh.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="threes"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-xhdpi/threes.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="twoc"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-xhdpi/twoc.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="twod"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-xhdpi/twod.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="twoh"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-xhdpi/twoh.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="twos"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-xhdpi/twos.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="acec"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-xxhdpi/acec.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="aced"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-xxhdpi/aced.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="aceh"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-xxhdpi/aceh.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="aces"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-xxhdpi/aces.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="eightc"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-xxhdpi/eightc.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="eightd"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-xxhdpi/eightd.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="eighth"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-xxhdpi/eighth.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="eights"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-xxhdpi/eights.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="fivec"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-xxhdpi/fivec.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="fived"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-xxhdpi/fived.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="fiveh"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-xxhdpi/fiveh.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="fives"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-xxhdpi/fives.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="fourc"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-xxhdpi/fourc.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="fourd"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-xxhdpi/fourd.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="fourh"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-xxhdpi/fourh.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="fours"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-xxhdpi/fours.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-xxhdpi/ic_launcher.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="jackc"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-xxhdpi/jackc.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="jackd"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-xxhdpi/jackd.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="jackh"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-xxhdpi/jackh.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="jacks"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-xxhdpi/jacks.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="kingc"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-xxhdpi/kingc.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="kingd"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-xxhdpi/kingd.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="kingh"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-xxhdpi/kingh.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="kings"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-xxhdpi/kings.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="ninec"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-xxhdpi/ninec.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="nined"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-xxhdpi/nined.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="nineh"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-xxhdpi/nineh.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="nines"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-xxhdpi/nines.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="queenc"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-xxhdpi/queenc.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="queend"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-xxhdpi/queend.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="queenh"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-xxhdpi/queenh.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="queens"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-xxhdpi/queens.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="sevenc"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-xxhdpi/sevenc.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="sevend"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-xxhdpi/sevend.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="sevenh"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-xxhdpi/sevenh.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="sevens"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-xxhdpi/sevens.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="sixc"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-xxhdpi/sixc.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="sixd"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-xxhdpi/sixd.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="sixh"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-xxhdpi/sixh.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="sixs"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-xxhdpi/sixs.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="tenc"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-xxhdpi/tenc.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="tend"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-xxhdpi/tend.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="tenh"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-xxhdpi/tenh.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="tens"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-xxhdpi/tens.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="threec"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-xxhdpi/threec.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="threed"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-xxhdpi/threed.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="threeh"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-xxhdpi/threeh.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="threes"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-xxhdpi/threes.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="twoc"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-xxhdpi/twoc.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="twod"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-xxhdpi/twod.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="twoh"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-xxhdpi/twoh.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="twos"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/drawable-xxhdpi/twos.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="activity_game_main"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/layout/activity_game_main.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="game"
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/menu/game.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/values/dimens.xml"
+                qualifiers="" >
+                <dimen name="activity_horizontal_margin" >16dp
+                </dimen>
+                <dimen name="activity_vertical_margin" >16dp
+                </dimen>
+            </file>
+            <file
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/values/strings.xml"
+                qualifiers="" >
+                <string name="action_settings" >Settings
+                </string>
+                <string name="app_name" >Hearts
+                </string>
+                <string name="hello_world" >Hello world!
+                </string>
+            </file>
+            <file
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/values/styles.xml"
+                qualifiers="" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Light" >
+
+                    <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+                    -->
+                </style>
+
+                <style
+                    name="AppTheme"
+                    parent="AppBaseTheme" >
+
+                    <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+                </style>
+            </file>
+            <file
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/values-sw720dp-land/dimens.xml"
+                qualifiers="sw720dp-land" >
+                <dimen name="activity_horizontal_margin" >128dp
+                </dimen>
+            </file>
+            <file
+                path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/main/res/values-v11/styles.xml"
+                qualifiers="v11" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo.Light" >
+
+                    <!-- API 11 theme customizations can go here. -->
+                </style>
+            </file>
+        </source>
+        <source path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/build/res/rs/debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/Users/kleve/AndroidStudioProjects/Cards/HeartsProject/Hearts/src/debug/res" />
+    </dataSet>
+
+</merger>
